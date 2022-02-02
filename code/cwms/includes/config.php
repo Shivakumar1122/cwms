@@ -2,7 +2,7 @@
 // DB credentials.
 define('DB_HOST','localhost');
 define('DB_USER','admin');
-define('Myrds1234','');
+define('DB_PASS','Myrds1234');
 define('DB_NAME','cwmsdb');
 // Establish database connection.
 try
